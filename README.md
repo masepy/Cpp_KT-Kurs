@@ -5,12 +5,12 @@ Willkommen im C++ Programmierkurs! Dieses Repository wird verwendet, um Code-Auf
 ## Inhaltsverzeichnis
 - [Repository-Struktur](#Repository-Struktur)
 - [Erste Schritte](#Erste-Schritte)
-  - [1. Repository klonen](#1.-Repository-klonen)
-  - [2. Eigenen Branch erstellen](#2.-Eigenen-Branch-erstellen)
-  - [3. Arbeiten an Aufgaben](#3.-Arbeiten-an-Aufgaben)
-  - [4. Änderungen committen und pushen](#4.-Änderungen-committen-und-pushen)
-  - [5. Pull-Request erstellen](#5.-Pull-Request-erstellen)
-  - [6. Rückmeldungen und Verbesserungen](#6.-Rückmeldungen-und-Verbesserungen)
+  - [1. Repository klonen](#1-Repository-klonen)
+  - [2. Eigenen Branch erstellen](#2-Eigenen-Branch-erstellen)
+  - [3. Arbeiten an Aufgaben](#3-Arbeiten-an-Aufgaben)
+  - [4. Änderungen committen und pushen](#4-Änderungen-committen-und-pushen)
+  - [5. Pull-Request erstellen](#5-Pull-Request-erstellen)
+  - [6. Rückmeldungen und Verbesserungen](#6-Rückmeldungen-und-Verbesserungen)
 - [Richtlinien](#Richtlinien)
 
 ## Repository-Struktur
