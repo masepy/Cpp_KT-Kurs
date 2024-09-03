@@ -25,7 +25,7 @@ Um loszulegen, klone dieses Repository auf deinen lokalen Rechner mit folgendem 
 
 ```bash
 git clone https://github.com/aaronAtKt/Cpp_KT-Kurs.git
-cd cpp-kurs
+cd Cpp_KT-Kurs
 ```
 
 ### 2. Eigenen Branch erstellen
