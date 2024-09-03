@@ -24,7 +24,7 @@ Willkommen im C++ Programmierkurs! Dieses Repository wird verwendet, um Code-Auf
 Um loszulegen, klone dieses Repository auf deinen lokalen Rechner mit folgendem Befehl:
 
 ```bash
-git clone https://github.com/dein-org/cpp-kurs.git
+git clone https://github.com/aaronAtKt/Cpp_KT-Kurs.git
 cd cpp-kurs
 ```
 
