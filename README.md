@@ -68,8 +68,3 @@ Kontakt
 Bei Fragen oder Problemen melde dich bitte beim Kursleiter oder stelle eine Frage im Kursforum.
 
 Viel Erfolg beim Programmieren!
-
-```css
-
-Dieses `README.md` gibt klare Anweisungen, wie jeder Teilnehmer im Kurs sein eigenes Arbeitsumfeld in einem eigenen Branch organisiert und seinen Code korrekt einreicht.
-```
