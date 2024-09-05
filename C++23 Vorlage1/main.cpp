@@ -20,7 +20,7 @@ int main()
     i = (int) d;
 
     // Functional Casting (C)
-    d = 7.987;
+    d = 5.987;
     i = int(d);
 
     // static cast
